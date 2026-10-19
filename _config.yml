@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: YeonHee's Portpolio
+baseurl:
+url: "https://yeonheeCho.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: 조연희
+  desc: 건양대학교 기업소프트웨어학부 25학번 조연희 입니다.
+  email: 25682028@konyang.ac.kr
+  selfie: C:\조연희\연희\건양대 dyw 2026 깃허브\github\github_practice_for_aisw_2026\portfolio.jpg
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: yeonheeCho
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: 
   vimeo:
   wordpress:
   youtube:
